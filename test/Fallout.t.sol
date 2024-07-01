@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
 pragma solidity 0.7.0;
 
-import {Test, console2} from "forge-std/Test.sol";
+import {Test, console2} from "forge-std/Test.sol";s
 import {DeployFallout} from "../script/DeployFallout.s.sol";
 import {Fallout} from "../src/Fallout.sol";
 
